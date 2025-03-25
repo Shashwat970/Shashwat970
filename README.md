@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashwat Srivastava</h1>
 <h3 align="center">I am Programmer and student at SRM University, Chennai.A fresher who is keen to contribute to a cause. I am young, energetic, and a geeky individual whose desire to learn is endless.. Skilled in strategic project management and team leadership. Seeking a challenging executive role to leverage technical expertise and drive engineering excellence.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwat970" alt="shashwat970" /></a> </p>
 
 - 🌱 I’m currently learning **Web development programming languages**
 
